@@ -1,0 +1,9 @@
+{
+  "name": "operaciones-es6",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "operaciones.js",
+  "scripts":{
+    "start": "node operaciones.js"
+  }
+}
